@@ -10,7 +10,7 @@
 
 ---
 
-## 🏆 Key Achievements (Portfolio Highlights)
+## 🏆 Key Achievements 
 
 ### 🎯 Performance Results: **+70% Accuracy Improvement**
 
@@ -54,7 +54,6 @@ An end-to-end, reproducible pipeline for creating a **domain-specialized policy 
 - **Adapter merge** into a standalone model
 - **Export + packaging for Ollama** for fast local inference
 
-This repo is designed to be **portfolio-ready**: clear scripts, repeatable steps, and a clean separation between source code and large training artifacts.
 
 ## Why QLoRA + Ollama
 
