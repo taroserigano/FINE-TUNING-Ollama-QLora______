@@ -16,9 +16,9 @@
 
 | Metric               | Base Llama 3.1 8B | Fine-Tuned Model | Improvement      |
 | -------------------- | ----------------- | ---------------- | ---------------- |
-| **Keyword Accuracy** | 30% (3/10)        | 100% (10/10)     | **+70%** 🚀      |
-| **Training Loss**    | N/A               | 0.59 → 0.12      | **-79%** ⚡      |
-| **Question Wins**    | 0/3               | 3/3 (100%)       | **Perfect** ✅   |
+| **Keyword Accuracy** | 30% (3/10)        | 100% (10/10)     | **+70%** 🚀       |
+| **Training Loss**    | N/A               | 0.59 → 0.12      | **-79%** ⚡(79% better)|
+| **Question Wins**    | 0/3               | 3/3 (100%)       | **Perfect** ✅     |
 | **Model Rating**     | N/A               | ⭐⭐⭐⭐⭐       | **EXCELLENT**    |
 
 ### 💡 Technical Skills Demonstrated
