@@ -1,4 +1,6 @@
-# Fine-Tuning with Ollama + QLoRA (Policy Compliance Model)
+# Fine-Tuning with Ollama + QLoRA 
+
+## (Policy Compliance Model)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)](https://huggingface.co/docs/transformers/index)
