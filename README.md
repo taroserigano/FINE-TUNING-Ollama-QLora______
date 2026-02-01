@@ -8,6 +8,13 @@
 [![BitsAndBytes](https://img.shields.io/badge/bitsandbytes-4--bit%20quantization-blue)](https://github.com/bitsandbytes-foundation/bitsandbytes)
 [![Ollama](https://img.shields.io/badge/Ollama-local%20inference-black)](https://ollama.com/)
 
+
+
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e9f6393-93cb-4f4c-96ca-d4fca959ff9d" />
+
+
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/71eb73b0-c0f4-482a-8e0b-074fe120c2b7" />
+
 **Keywords:** `QLoRA` `LoRA` `4-bit quantization (NF4)` `PEFT` `Transformers` `Accelerate` `Ollama` `GGUF` `Local LLM Inference` `Model Packaging` `Evaluation Harness` `Reproducible Training`
 
 ---
