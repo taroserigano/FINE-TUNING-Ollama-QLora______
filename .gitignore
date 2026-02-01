@@ -36,3 +36,6 @@ policy-compliance-llm*/
 
 # Secrets
 .env
+
+# Workspace artifacts
+nul
